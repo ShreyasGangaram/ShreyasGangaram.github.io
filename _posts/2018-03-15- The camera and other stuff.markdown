@@ -14,7 +14,7 @@ Before design, photography was an art discipline for me. But lately, it has beco
 
 The above ‘discovery’ I made, is a tale worth telling and spreading, if you’d ask me!
 
-To my readers, I’d say thank you for reading. I will be blogging more about the adventure I go on with my camera. Until then, comment about what you feel or what you want me to write on. Stay tuned!
+To my readers, I’d say thank you for reading. I will be blogging more about the adventure I go on with my camera. Until then, comment about what you feel or what you want me to write about. Stay tuned!
 
 ![sg2](https://user-images.githubusercontent.com/36674020/37426588-ec95cd5c-27ec-11e8-853e-fe5d7a7b3dc7.jpg)
 
