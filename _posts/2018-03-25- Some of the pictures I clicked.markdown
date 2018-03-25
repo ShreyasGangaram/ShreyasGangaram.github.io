@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "The camera and other stuff"
+title:  "Some of the pictures I clicked"
 date:   2018-03-25 9:00:00 +0530
 categories: jekyll update
 ---
