@@ -6,7 +6,7 @@ date:   2018-03-25 9:00:00 +0530
 categories: jekyll update
 ---
 
-Finally, here comes the part where I share some of my work. This is a photo essay I clicked to show the lively colours we see daily but do not observe and appreciate. Please go through them and comment what you feel and where I can improve. Your feedback will be very important for me, do share it with your friends and loved ones. Above all, thank you readers for the views I got for my previous post and yes, I will continue posting more about my work.
+Finally, here comes the part where I share some of my work. This is a photo essay I clicked to show the lively colours we see daily but do not observe and appreciate. I also wanted to show the activities that take place in a market. Please go through them and comment what you feel and where I can improve. Your feedback will be very important for me, do share it with your friends and loved ones. Above all, thank you readers for the views I got for my previous post and yes, I will continue posting more about my work.
 Peace!
 
 ![pho_ass2_a003_06](https://user-images.githubusercontent.com/36674020/37876957-ab23a050-3071-11e8-9133-f3b38b91e364.jpg)
